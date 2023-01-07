@@ -25,7 +25,7 @@ const SchedulePage = () => {
                   <a href="../schedule">
                     <span className="icon icon-sm linear-icon-arrow-left-square" />
                   </a>
-                  <span className="big">January 2022 </span>
+                  <span className="big">January 2023 </span>
                 </div>
               </div>
             </div>
@@ -45,7 +45,7 @@ const SchedulePage = () => {
                     </a>
                   </div>
                   <div className="thumb-corporate__caption">
-                    1. January 2022
+                    1. January 2023
                     <p className="thumb__title">
                       <a href="/buytickets/chelovek_iz_podolska">The Man from Podolsk</a>
                     </p>
@@ -68,7 +68,7 @@ const SchedulePage = () => {
                     </a>
                   </div>
                   <div className="thumb-corporate__caption">
-                    2. January 2022
+                    2. January 2023
                     <p className="thumb__title">
                       <a href="buytickets/dvoe_na_kachelyakh">Two on a swing</a>
                     </p>
@@ -91,7 +91,7 @@ const SchedulePage = () => {
                     </a>
                   </div>
                   <div className="thumb-corporate__caption">
-                    3. January 2022
+                    3. January 2023
                     <p className="thumb__title">
                       <a href="buytickets/eti_svobodnye_babochki">These free butterflies</a>
                     </p>
@@ -114,7 +114,7 @@ const SchedulePage = () => {
                     </a>
                   </div>
                   <div className="thumb-corporate__caption">
-                    4. January 2022
+                    4. January 2023
                     <p className="thumb__title">
                       <a href="/buytickets/fantazii_faryateva">Fantasies by Faryatyev</a>
                     </p>
@@ -137,7 +137,7 @@ const SchedulePage = () => {
                     </a>
                   </div>
                   <div className="thumb-corporate__caption">
-                    5 January, 2022
+                    5 January, 2023
                     <p className="thumb__title">
                       <a href="/buytickets/kankun">Cancun</a>
                     </p>
@@ -160,7 +160,7 @@ const SchedulePage = () => {
                     </a>
                   </div>
                   <div className="thumb-corporate__caption">
-                    6 January, 2022
+                    6 January, 2023
                     <p className="thumb__title">
                       <a href="/buytickets/kazanova">Casanova</a>
                     </p>
@@ -185,7 +185,7 @@ const SchedulePage = () => {
                     </a>
                   </div>
                   <div className="thumb-corporate__caption">
-                    7 January, 2022
+                    7 January, 2023
                     <p className="thumb__title">
                       <a href="/buytickets/khorosho_ochen">Good. Very!</a>
                     </p>
@@ -208,7 +208,7 @@ const SchedulePage = () => {
                     </a>
                   </div>
                   <div className="thumb-corporate__caption">
-                    8 January, 2022
+                    8 January, 2023
                     <p className="thumb__title">
                       <a href="/buytickets/lir">Lear</a>
                     </p>
@@ -233,7 +233,7 @@ const SchedulePage = () => {
                     </a>
                   </div>
                   <div className="thumb-corporate__caption">
-                    9 January, 2022
+                    9 January, 2023
                     <p className="thumb__title">
                       <a href="/buytickets/onegin">Onegin</a>
                     </p>
@@ -258,7 +258,7 @@ const SchedulePage = () => {
                     </a>
                   </div>
                   <div className="thumb-corporate__caption">
-                    10 January, 2022
+                    10 January, 2023
                     <p className="thumb__title">
                       <a href="/buytickets/prestuplenie_i_nakazanie">Verbrechen und Strafe</a>
                     </p>
@@ -283,7 +283,7 @@ const SchedulePage = () => {
                     </a>
                   </div>
                   <div className="thumb-corporate__caption">
-                    11 January, 2022
+                    11 January, 2023
                     <p className="thumb__title">
                       <a href="/buytickets/prizraki">Larve</a>
                     </p>
@@ -306,7 +306,7 @@ const SchedulePage = () => {
                     </a>
                   </div>
                   <div className="thumb-corporate__caption">
-                    12 January, 2022
+                    12 January, 2023
                     <p className="thumb__title">
                       <a href="/buytickets/tri_tovarishcha">Three comrades</a>
                     </p>
@@ -331,7 +331,7 @@ const SchedulePage = () => {
                     </a>
                   </div>
                   <div className="thumb-corporate__caption">
-                    13 January, 2022
+                    13 January, 2023
                     <p className="thumb__title">
                       <a href="/buytickets/chelovek_iz_podolska">The Man from Podolsk</a>
                     </p>
@@ -354,7 +354,7 @@ const SchedulePage = () => {
                     </a>
                   </div>
                   <div className="thumb-corporate__caption">
-                    14 January, 2022
+                    14 January, 2023
                     <p className="thumb__title">
                       <a href="/buytickets/dvoe_na_kachelyakh">Two on a swing</a>
                     </p>
@@ -377,7 +377,7 @@ const SchedulePage = () => {
                     </a>
                   </div>
                   <div className="thumb-corporate__caption">
-                    15 January, 2022
+                    15 January, 2023
                     <p className="thumb__title">
                       <a href="/buytickets/eti_svobodnye_babochki">These free butterflies</a>
                     </p>
@@ -400,7 +400,7 @@ const SchedulePage = () => {
                     </a>
                   </div>
                   <div className="thumb-corporate__caption">
-                    16 January, 2022
+                    16 January, 2023
                     <p className="thumb__title">
                       <a href="/buytickets/fantazii_faryateva">Fantasies by Faryatyev</a>
                     </p>
@@ -423,7 +423,7 @@ const SchedulePage = () => {
                     </a>
                   </div>
                   <div className="thumb-corporate__caption">
-                    17 January, 2022
+                    17 January, 2023
                     <p className="thumb__title">
                       <a href="/buytickets/kankun">Cancun</a>
                     </p>
@@ -446,7 +446,7 @@ const SchedulePage = () => {
                     </a>
                   </div>
                   <div className="thumb-corporate__caption">
-                    18 January, 2022
+                    18 January, 2023
                     <p className="thumb__title">
                       <a href="/buytickets/kazanova">Casanova</a>
                     </p>
@@ -471,7 +471,7 @@ const SchedulePage = () => {
                     </a>
                   </div>
                   <div className="thumb-corporate__caption">
-                    19 January, 2022
+                    19 January, 2023
                     <p className="thumb__title">
                       <a href="/buytickets/khorosho_ochen">Good. Very!</a>
                     </p>
@@ -494,7 +494,7 @@ const SchedulePage = () => {
                     </a>
                   </div>
                   <div className="thumb-corporate__caption">
-                    20 January, 2022
+                    20 January, 2023
                     <p className="thumb__title">
                       <a href="/buytickets/lir">Lira</a>
                     </p>
@@ -519,7 +519,7 @@ const SchedulePage = () => {
                     </a>
                   </div>
                   <div className="thumb-corporate__caption">
-                    21 January, 2022
+                    21 January, 2023
                     <p className="thumb__title">
                       <a href="/buytickets/onegin">Onegin</a>
                     </p>
@@ -544,7 +544,7 @@ const SchedulePage = () => {
                     </a>
                   </div>
                   <div className="thumb-corporate__caption">
-                    22 January, 2022
+                    22 January, 2023
                     <p className="thumb__title">
                       <a href="/buytickets/prestuplenie_i_nakazanie">Crime and punishment</a>
                     </p>
@@ -569,7 +569,7 @@ const SchedulePage = () => {
                     </a>
                   </div>
                   <div className="thumb-corporate__caption">
-                    23 January, 2022
+                    23 January, 2023
                     <p className="thumb__title">
                       <a href="/buytickets/prizraki">Larve</a>
                     </p>
@@ -592,7 +592,7 @@ const SchedulePage = () => {
                     </a>
                   </div>
                   <div className="thumb-corporate__caption">
-                    24 January, 2022
+                    24 January, 2023
                     <p className="thumb__title">
                       <a href="/buytickets/tri_tovarishcha">Three comrades</a>
                     </p>
@@ -617,7 +617,7 @@ const SchedulePage = () => {
                     </a>
                   </div>
                   <div className="thumb-corporate__caption">
-                    25 January, 2022
+                    25 January, 2023
                     <p className="thumb__title">
                       <a href="/buytickets/chelovek_iz_podolska">The Man from Podolsk</a>
                     </p>
@@ -640,7 +640,7 @@ const SchedulePage = () => {
                     </a>
                   </div>
                   <div className="thumb-corporate__caption">
-                    26 January, 2022
+                    26 January, 2023
                     <p className="thumb__title">
                       <a href="/buytickets/dvoe_na_kachelyakh">Two on a swing</a>
                     </p>
@@ -663,7 +663,7 @@ const SchedulePage = () => {
                     </a>
                   </div>
                   <div className="thumb-corporate__caption">
-                    27 January, 2022
+                    27 January, 2023
                     <p className="thumb__title">
                       <a href="/buytickets/eti_svobodnye_babochki">These free butterflies</a>
                     </p>
@@ -686,7 +686,7 @@ const SchedulePage = () => {
                     </a>
                   </div>
                   <div className="thumb-corporate__caption">
-                    28 January, 2022
+                    28 January, 2023
                     <p className="thumb__title">
                       <a href="/buytickets/fantazii_faryateva">Fantasies by Faryatyev</a>
                     </p>
@@ -709,7 +709,7 @@ const SchedulePage = () => {
                     </a>
                   </div>
                   <div className="thumb-corporate__caption">
-                    29 January, 2022
+                    29 January, 2023
                     <p className="thumb__title">
                       <a href="/buytickets/kankun">Cancun</a>
                     </p>
@@ -732,7 +732,7 @@ const SchedulePage = () => {
                     </a>
                   </div>
                   <div className="thumb-corporate__caption">
-                    30 January, 2022
+                    30 January, 2023
                     <p className="thumb__title">
                       <a href="/buytickets/kazanova">Casanova</a>
                     </p>
