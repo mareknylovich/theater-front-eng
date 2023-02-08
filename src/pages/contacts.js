@@ -40,7 +40,12 @@ const ContactsPage = () => {
                       <br />
                       Shop RG05, 500 George St, Sydney NSW 2000
                       <br />
-                      Bd Charlemagne 44, 1000 Bruxelles
+                      100 Simcoe St C111, Toronto
+                      <br />
+                      1010 Sainte-Catherine O, Montréal, QC H3B 3S3
+                      <br />
+                      800 Macleod Trail SE, Calgary, AB T2G 5E6
+                      <br />
                       <br />
                       <br />
                       <dd></dd>
